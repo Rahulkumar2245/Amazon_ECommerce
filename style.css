@@ -249,3 +249,11 @@ ul {
 .add-first {
     width:50%;
 }
+
+.cart-header {
+    color: white;
+}
+
+.cart-footer {
+    background-color: #007185;
+}
