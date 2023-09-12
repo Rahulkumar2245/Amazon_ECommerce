@@ -245,3 +245,11 @@ ul {
 .pages a {
     padding: 5px;   
 }
+
+.cart-header {
+    color: white;
+}
+
+.cart-footer {
+    background-color: #007185;
+}
