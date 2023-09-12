@@ -246,6 +246,10 @@ ul {
     padding: 5px;   
 }
 
+.add-first {
+    width:50%;
+}
+
 .cart-header {
     color: white;
 }
